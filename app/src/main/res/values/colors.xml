@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA938</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textcolor">#3700B3</color>
+    <color name="backgroundcolor">#3700B3</color>
+    <color name="agecolor">#3700B3</color>
+    <color name="selectdate">#3700B3</color>
+    <color name="lightgrey">#3700B3</color>
+</resources>
